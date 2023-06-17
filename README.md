@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khaled-farahat)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-farahat&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
