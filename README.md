@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-farahat&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-farahat" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-farahat&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-farahat" /> </p>
+-->
 - 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **React, Nodejs**
