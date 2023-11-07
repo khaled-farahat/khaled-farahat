@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Nodejs**
 
-- 📫 How to reach me **khaledfarahat82@gmail,com**
+- 📫 How to reach me **khaledfarahat82@gmail.com**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/14yGkvJ_NPI03Cr3T6TfDZLHcTuA-LjfF/view?usp=sharing)
 
